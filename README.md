@@ -1,2 +1,2 @@
 # Wasm-Test
-Testing some was generation
+Testing some wasm generation
